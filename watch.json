@@ -1,0 +1,11 @@
+{
+  "script": "index.js",
+  "watch": true,
+  "ignore_watch": [
+    "envconfig.json"
+  ],
+  "watch_options": {
+    "followSymlinks": false
+  },
+  "name": "zsurvive"
+}

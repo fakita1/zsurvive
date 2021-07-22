@@ -1,0 +1,43 @@
+{
+  "MinutesPerEnergy": 5,
+  "Reactions": {
+    "Yes": "👍",
+    "Map": "🗺️",
+    "Farm": "⛏️",
+    "GoBack": "⬅️",
+    "Inventory": "💼",
+    "Upgrades": "🆙",
+    "Bosses": "💀",
+    "Achievements": "🏆",
+    "Fight": "⚔️",
+    "Heal": "❤️",
+    "Market": "🛒",
+    "Coins": "<:coins:728636799722717214>",
+    "Buy": "💰"
+  },
+  "Images": {
+    "Timeout": "https://images.emojiterra.com/twitter/v13.0/128px/231b.png",
+    "Map": "https://images.emojiterra.com/twitter/128px/1f5fa.png",
+    "Bosses": "https://images.emojiterra.com/twitter/v13.0/128px/2620.png",
+    "Inventory": "https://images.emojiterra.com/mozilla/128px/1f392.png",
+    "Upgrades": "https://images.emojiterra.com/twitter/v13.0/128px/1f199.png",
+    "Market": "https://images.emojiterra.com/twitter/v13.0/128px/1f6d2.png",
+    "Achievements": "https://images.emojiterra.com/twitter/v13.0/128px/1f3c6.png",
+    "Energy": "https://images.emojiterra.com/twitter/v13.0/128px/26a1.png",
+    "Farm": "https://images.emojiterra.com/twitter/v13.0/128px/26cf.png",
+    "Heal": "https://images.emojiterra.com/twitter/v13.0/128px/2764.png",
+    "Yes": "https://images.emojiterra.com/twitter/128px/2705.png",
+    "Vote": "https://images.emojiterra.com/twitter/v13.0/128px/1f48c.png",
+    "VoteReminder": "https://images.emojiterra.com/twitter/v13.0/128px/1f4e9.png",
+    "Premium": "https://images.emojiterra.com/twitter/v13.0/128px/2b50.png",
+    "Coins": "https://cdn.discordapp.com/attachments/734543727342649537/746460136079491152/coins.png"
+  },
+  "Admins": [
+    "275608753783439360",
+    "362937922640543755"
+  ],
+  "Timeout": 90000,
+  "VoteReward": 50,
+  "EmbedsColor": "#37b044",
+  "Logo": "https://i.imgur.com/FRWl75Y.png"
+}

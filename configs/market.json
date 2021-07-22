@@ -1,0 +1,78 @@
+[
+  {
+    "type": "prop",
+    "id": "hp",
+    "emoji": "❤️",
+    "price": 120
+  },
+  {
+    "type": "prop",
+    "id": "energy",
+    "emoji": "⚡",
+    "price": 100
+  },
+  {
+    "type": "box",
+    "id": "forestbox",
+    "price": 150,
+    "zone": "forest",
+    "image": "https://i.imgur.com/H7ORe5I.png",
+    "minResources": 15,
+    "maxResources": 70,
+    "chances": [
+      75,
+      100,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "type": "box",
+    "id": "citybox",
+    "price": 200,
+    "zone": "city",
+    "image": "https://i.imgur.com/XwY7rm7.png",
+    "minResources": 15,
+    "maxResources": 70,
+    "chances": [
+      0,
+      50,
+      50,
+      0,
+      0
+    ]
+  },
+  {
+    "type": "box",
+    "id": "cavebox",
+    "price": 250,
+    "zone": "cave",
+    "image": "https://i.imgur.com/W0eUjYh.png",
+    "minResources": 15,
+    "maxResources": 70,
+    "chances": [
+      75,
+      100,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "type": "box",
+    "id": "islandbox",
+    "price": 300,
+    "zone": "island",
+    "image": "https://i.imgur.com/RkstMfm.png",
+    "minResources": 15,
+    "maxResources": 70,
+    "chances": [
+      0,
+      50,
+      50,
+      0,
+      0
+    ]
+  }
+]

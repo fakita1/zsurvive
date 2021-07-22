@@ -1,0 +1,373 @@
+[
+  {
+    "id": "energy",
+    "emoji": "⚡",
+    "tiers": [
+      {
+        "from": 0,
+        "to": 0,
+        "amount": 2.5,
+        "resources": [
+          "rock",
+          "fourleaf",
+          "rusty"
+        ]
+      },
+      {
+        "from": 1,
+        "to": 1,
+        "amount": 0.5,
+        "resources": [
+          "rock",
+          "fourleaf",
+          "rusty"
+        ]
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "amount": 0.5,
+        "resources": [
+          "rock",
+          "fourleaf",
+          "rusty",
+          "energydrink",
+          "nutandbolt"
+        ]
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "amount": 0.4,
+        "resources": [
+          "rock",
+          "fourleaf",
+          "rusty",
+          "energydrink",
+          "nutandbolt",
+          "energeticstone",
+          "radioactive"
+        ]
+      },
+      {
+        "from": 10,
+        "to": 14,
+        "amount": 0.2,
+        "resources": [
+          "rock",
+          "fourleaf",
+          "rusty",
+          "energydrink",
+          "nutandbolt",
+          "energeticstone",
+          "radioactive",
+          "coconut",
+          "gold"
+        ]
+      },
+      {
+        "from": 15,
+        "to": 19,
+        "amount": 0.2,
+        "resources": [
+          "rock",
+          "fourleaf",
+          "rusty",
+          "energydrink",
+          "nutandbolt",
+          "energeticstone",
+          "radioactive",
+          "coconut",
+          "gold",
+          "brain",
+          "rose"
+        ]
+      },
+      {
+        "from": 20,
+        "to": 29,
+        "amount": 0.2,
+        "resources": [
+          "rock",
+          "fourleaf",
+          "rusty",
+          "energydrink",
+          "nutandbolt",
+          "energeticstone",
+          "radioactive",
+          "brain",
+          "coconut",
+          "gold",
+          "rose",
+          "cheese",
+          "solarpanel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hp",
+    "emoji": "❤️",
+    "tiers": [
+      {
+        "from": 0,
+        "to": 1,
+        "amount": 3,
+        "resources": [
+          "bandage",
+          "apple"
+        ]
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "amount": 5,
+        "resources": [
+          "bandage",
+          "apple",
+          "medikit"
+        ]
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "amount": 10,
+        "resources": [
+          "bandage",
+          "apple",
+          "medikit",
+          "healingcrystal"
+        ]
+      },
+      {
+        "from": 10,
+        "to": 14,
+        "amount": 50,
+        "resources": [
+          "bandage",
+          "apple",
+          "medikit",
+          "healingcrystal",
+          "healingwater"
+        ]
+      },
+      {
+        "from": 15,
+        "to": 19,
+        "amount": 60,
+        "resources": [
+          "bandage",
+          "apple",
+          "medikit",
+          "healingcrystal",
+          "healingwater",
+          "rose",
+          "skull"
+        ]
+      },
+      {
+        "from": 20,
+        "to": 29,
+        "amount": 75,
+        "resources": [
+          "bandage",
+          "apple",
+          "medikit",
+          "healingcrystal",
+          "healingwater",
+          "rose",
+          "skull",
+          "nanobot",
+          "solarpanel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "damage",
+    "emoji": "☠️",
+    "tiers": [
+      {
+        "from": 0,
+        "to": 1,
+        "amount": 3,
+        "resources": [
+          "rusty",
+          "wood"
+        ]
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "amount": 5,
+        "resources": [
+          "rusty",
+          "wood",
+          "energydrink",
+          "scrap"
+        ]
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "amount": 10,
+        "resources": [
+          "rusty",
+          "wood",
+          "energydrink",
+          "scrap",
+          "metal",
+          "energeticstone"
+        ]
+      },
+      {
+        "from": 10,
+        "to": 14,
+        "amount": 50,
+        "resources": [
+          "rusty",
+          "wood",
+          "energydrink",
+          "scrap",
+          "metal",
+          "energeticstone",
+          "coconut",
+          "rocketparts"
+        ]
+      },
+      {
+        "from": 15,
+        "to": 19,
+        "amount": 60,
+        "resources": [
+          "rusty",
+          "wood",
+          "energydrink",
+          "scrap",
+          "metal",
+          "energeticstone",
+          "coconut",
+          "rocketparts",
+          "gem",
+          "skull"
+        ]
+      },
+      {
+        "from": 20,
+        "to": 29,
+        "amount": 75,
+        "resources": [
+          "rusty",
+          "wood",
+          "energydrink",
+          "scrap",
+          "metal",
+          "energeticstone",
+          "coconut",
+          "rocketparts",
+          "gem",
+          "skull",
+          "moonrock",
+          "cheese"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tools",
+    "type": "tool",
+    "emoji": "🛠️",
+    "tiers": [
+      {
+        "from": 0,
+        "to": 1,
+        "resources": [
+          "rock",
+          "apple",
+          "wood",
+          "fourleaf"
+        ]
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "resources": [
+          "rock",
+          "apple",
+          "wood",
+          "fourleaf",
+          "scrap",
+          "nutandbolt"
+        ]
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "resources": [
+          "rock",
+          "apple",
+          "wood",
+          "fourleaf",
+          "scrap",
+          "nutandbolt",
+          "metal",
+          "radioactive"
+        ]
+      },
+      {
+        "from": 10,
+        "to": 14,
+        "resources": [
+          "rock",
+          "apple",
+          "wood",
+          "fourleaf",
+          "scrap",
+          "nutandbolt",
+          "metal",
+          "radioactive",
+          "gold",
+          "rocketparts"
+        ]
+      },
+      {
+        "from": 15,
+        "to": 19,
+        "resources": [
+          "rock",
+          "apple",
+          "wood",
+          "fourleaf",
+          "scrap",
+          "nutandbolt",
+          "metal",
+          "radioactive",
+          "gold",
+          "rocketparts",
+          "gem",
+          "brain"
+        ]
+      },
+      {
+        "from": 20,
+        "to": 29,
+        "resources": [
+          "rock",
+          "apple",
+          "wood",
+          "fourleaf",
+          "scrap",
+          "nutandbolt",
+          "metal",
+          "radioactive",
+          "gold",
+          "rocketparts",
+          "gem",
+          "brain",
+          "moonrock",
+          "nanobot"
+        ]
+      }
+    ]
+  }
+]

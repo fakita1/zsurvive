@@ -1,0 +1,170 @@
+{
+  "forest": [
+    {
+      "id": "bandage",
+      "requires": "tools",
+      "emoji": ":adhesive_bandage:",
+      "baseTier": 0
+    },
+    {
+      "id": "apple",
+      "requires": "tools",
+      "emoji": ":apple:",
+      "baseTier": 0
+    },
+    {
+      "id": "fourleaf",
+      "requires": "tools",
+      "emoji": ":four_leaf_clover:",
+      "baseTier": 0
+    },
+    {
+      "id": "rock",
+      "requires": "tools",
+      "emoji": "<:rock:728754622222827540>",
+      "baseTier": 0
+    },
+    {
+      "id": "wood",
+      "requires": "tools",
+      "emoji": ":evergreen_tree:",
+      "baseTier": 0
+    },
+    {
+      "id": "rusty",
+      "requires": "tools",
+      "emoji": "<:rusty:728805096674033685>",
+      "baseTier": 0
+    }
+  ],
+  "city": [
+    {
+      "id": "medikit",
+      "requires": "tools",
+      "emoji": ":hospital:",
+      "baseTier": 2
+    },
+    {
+      "id": "energydrink",
+      "requires": "tools",
+      "emoji": ":tropical_drink:",
+      "baseTier": 2
+    },
+    {
+      "id": "scrap",
+      "requires": "tools",
+      "emoji": "<:scrap:722604334650753106>",
+      "baseTier": 2
+    },
+    {
+      "id": "nutandbolt",
+      "requires": "tools",
+      "emoji": ":nut_and_bolt:",
+      "baseTier": 2
+    }
+  ],
+  "cave": [
+    {
+      "id": "healingcrystal",
+      "requires": "tools",
+      "emoji": ":crystal_ball:",
+      "baseTier": 5
+    },
+    {
+      "id": "energeticstone",
+      "requires": "tools",
+      "emoji": "<:energeticstone:729042338105786466>",
+      "baseTier": 5
+    },
+    {
+      "id": "metal",
+      "requires": "tools",
+      "emoji": "<:metal:726303719058046996>",
+      "baseTier": 5
+    },
+    {
+      "id": "radioactive",
+      "requires": "tools",
+      "emoji": ":radioactive:",
+      "baseTier": 5
+    }
+  ],
+  "island": [
+    {
+      "id": "healingwater",
+      "requires": "tools",
+      "emoji": ":droplet:",
+      "baseTier": 10
+    },
+    {
+      "id": "coconut",
+      "requires": "tools",
+      "emoji": ":coconut:",
+      "baseTier": 10
+    },
+    {
+      "id": "rocketparts",
+      "requires": "tools",
+      "emoji": ":rocket:",
+      "baseTier": 10
+    },
+    {
+      "id": "gold",
+      "requires": "tools",
+      "emoji": "<:gold:722524435000852480>",
+      "baseTier": 10
+    }
+  ],
+  "graveyard": [
+    {
+      "id": "rose",
+      "requires": "tools",
+      "emoji": ":rose:",
+      "baseTier": 15
+    },
+    {
+      "id": "brain",
+      "requires": "tools",
+      "emoji": ":brain:",
+      "baseTier": 15
+    },
+    {
+      "id": "skull",
+      "requires": "tools",
+      "emoji": ":skull:",
+      "baseTier": 15
+    },
+    {
+      "id": "gem",
+      "requires": "tools",
+      "emoji": ":gem:",
+      "baseTier": 15
+    }
+  ],
+  "moon": [
+    {
+      "id": "nanobot",
+      "requires": "tools",
+      "emoji": ":robot:",
+      "baseTier": 20
+    },
+    {
+      "id": "cheese",
+      "requires": "tools",
+      "emoji": ":cheese:",
+      "baseTier": 20
+    },
+    {
+      "id": "solarpanel",
+      "requires": "tools",
+      "emoji": ":sunny:",
+      "baseTier": 20
+    },
+    {
+      "id": "moonrock",
+      "requires": "tools",
+      "emoji": ":white_circle:",
+      "baseTier": 20
+    }
+  ]
+}

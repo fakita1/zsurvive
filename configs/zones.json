@@ -1,0 +1,68 @@
+[
+  {
+    "id": "forest",
+    "emoji": "🌲",
+    "image": "https://images.emojiterra.com/google/android-10/128px/1f332.png",
+    "unlockedByKilling": 0,
+    "bossAmount": 6,
+    "roleID": "736379149525975050",
+    "coins": 40,
+    "baseStat": 4,
+    "scaleMultiplier": 1.8
+  },
+  {
+    "id": "city",
+    "emoji": "🏡",
+    "image": "https://images.emojiterra.com/twitter/v13.0/128px/1f3e0.png",
+    "unlockedByKilling": 4,
+    "bossAmount": 8,
+    "roleID": "736415551773081630",
+    "coins": 50,
+    "baseStat": 30,
+    "scaleMultiplier": 0.7
+  },
+  {
+    "id": "cave",
+    "emoji": "⛰️",
+    "image": "https://images.emojiterra.com/twitter/v13.0/128px/1f3d4.png",
+    "unlockedByKilling": 9,
+    "bossAmount": 11,
+    "roleID": "736415556986732584",
+    "coins": 60,
+    "baseStat": 115,
+    "scaleMultiplier": 0.3
+  },
+  {
+    "id": "island",
+    "emoji": "🏝️",
+    "image": "https://images.emojiterra.com/twitter/v13.0/128px/1f3dd.png",
+    "unlockedByKilling": 20,
+    "bossAmount": 15,
+    "roleID": "736415554239201311",
+    "coins": 75,
+    "baseStat": 500,
+    "scaleMultiplier": 0.3
+  },
+  {
+    "id": "graveyard",
+    "emoji": "⚰️",
+    "image": "https://images.emojiterra.com/twitter/v13.0/128px/1faa6.png",
+    "unlockedByKilling": 32,
+    "bossAmount": 16,
+    "roleID": "737490387467370536",
+    "coins": 75,
+    "baseStat": 1600,
+    "scaleMultiplier": 0.085
+  },
+  {
+    "id": "moon",
+    "emoji": "🌑",
+    "image": "https://images.emojiterra.com/twitter/v13.0/128px/1f311.png",
+    "unlockedByKilling": 51,
+    "bossAmount": 14,
+    "roleID": "737101964600541236",
+    "coins": 75,
+    "baseStat": 3400,
+    "scaleMultiplier": 0.076
+  }
+]

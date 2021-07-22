@@ -43,7 +43,7 @@ sql.query(`CREATE DATABASE IF NOT EXISTS zsurvive;`, async (err, rows) => {
     sql.query(`CREATE TABLE IF NOT EXISTS zsurvive.refs (code text, main int DEFAULT '0', invite int DEFAULT '0', discord int DEFAULT '0', alias text);`, async (err) => {
         if (err) throw err;
     });
-    sql.query(`CREATE TABLE IF NOT EXISTS zsurvive.users (id varchar(50) DEFAULT NULL,data mediumtext CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci, createdAt tinytext, premium tinyint DEFAULT NULL, premiumUntil tinytext, lastPremiumCoins tinytext CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci, userName text CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci, energyNotifAt tinytext, voteNotifAt tinytext, votes text, totalVotes int DEFAULT '0', bossesKilled int DEFAULT '0', coinsSpent int DEFAULT '0', resourcesFarmed int DEFAULT '0');`, async (err) => {
+    sql.query(`CREATE TABLE IF NOT EXISTS zsurvive.users (id varchar(50) DEFAULT NULL,data mediumtext, createdAt tinytext, premium tinyint DEFAULT NULL, premiumUntil tinytext, lastPremiumCoins tinytext, userName text, energyNotifAt tinytext, voteNotifAt tinytext, votes text, totalVotes int DEFAULT '0', bossesKilled int DEFAULT '0', coinsSpent int DEFAULT '0', resourcesFarmed int DEFAULT '0');`, async (err) => {
         if (err) throw err;
     });
 

@@ -81,7 +81,7 @@ async function healFunction(message, msg, lang, surviveFunction) {
     let txt = '';
     let emojis = [config.Reactions.GoBack];
 
-    difference = data.maxhp - data.hp;
+    let difference = data.maxhp - data.hp;
     let amountKilled = data.stats.bossesKilled;
 
 
@@ -162,7 +162,7 @@ async function healFunction(message, msg, lang, surviveFunction) {
 
 
     let healObj = healOptions.find(x => x.emoji === reaction);
-    let difference = data.maxhp - data.hp;
+    difference = data.maxhp - data.hp;
     let amount = Math.floor(difference / 100 * healObj.percentage);
 
 

@@ -178,7 +178,7 @@
     "graveyard": "FRIEDHOF",
     "moon": "MOND",
     "notifEnergyTitle": "Energie Benachrichtigung",
-    "notifEnergyDesc": "Hey, **seine Energie ist voll** ({energy}/{maxenergy})! Komm zurück und farme weiter, um mehr Upgrades zu machen :smirk:",
+    "notifEnergyDesc": "Hey, **deine Energie ist voll** ({energy}/{maxenergy})! Komm zurück und farme weiter, um mehr Upgrades zu machen :smirk:",
     "notifVoteTitle": "Vote Erinnerung",
     "notifVoteDesc": "Du kannst jetzt wieder [**VOTEN**](https://zsurvive.xyz/vote)! Denkt dran es **alle 12 Stunden** zu tun, um **ZCoins** zu bekommen.",
     "notifTurnOffGuide": "**Wenn du diese Reminder nicht sinnvoll findest, kannst du dies mit `z notifications off` deaktivieren.",

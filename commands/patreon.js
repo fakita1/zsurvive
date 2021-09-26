@@ -59,8 +59,8 @@ module.exports = {
             user.premium = null;
         }
 
-        if (!tier) return;
-        if (user.premium !== null) {
+
+        if (user.premium !== null && tier) {
 
             if (user.lastPremiumCoins === null || user.lastPremiumCoins < Date.now() - 1000 * 60 * 60 * 24 * 30) {
                 await addPremiumCoinsForUser(message, tier);

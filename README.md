@@ -4,6 +4,7 @@ ZSurvive is a RPG-like Discord bot game. Farm resources, upgrade tools, defeat e
 the strongest survivor ever!
 
 [Website](https://zsurvive.xyz/).
+
 [Discord server](https://discord.gg/asdcd7F).
 
 ## Support and donations

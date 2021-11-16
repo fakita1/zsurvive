@@ -6,6 +6,8 @@ the strongest survivor ever!
 * [Website](https://zsurvive.xyz/).
 * [Discord server](https://discord.gg/asdcd7F).
 
+[Video Preview](https://www.youtube.com/watch?v=lurRwfjhUpM)
+
 ## Support and donations
 There are many ways to support our work. You can:
 * [Become a patron](https://www.patreon.com/zsurvive).

@@ -3,16 +3,10 @@
 ZSurvive is a RPG-like Discord bot game. Farm resources, upgrade tools, defeat epic bosses, earn achievements, and be
 the strongest survivor ever!
 
-* [Website](https://zsurvive.xyz/).
-* [Discord server](https://discord.gg/asdcd7F).
+DISCLAIMER: ZSurvive is no longer maintained, the project reached 100k+ users created in 25K+ servers. Check out this project on [my portfolio](https://www.facundolevaggi.com/projects/zsurvive).
 
-[Video Preview](https://www.youtube.com/watch?v=lurRwfjhUpM)
+[Video Preview](https://www.youtube.com/watch?v=lurRwfjhUpM) by a youtuber.
 
-## Support and donations
-There are many ways to support our work. You can:
-* [Become a patron](https://www.patreon.com/zsurvive).
-* Suggest any idea or help us coding new features!
-* Join our [community](https://discord.gg/asdcd7F).
 
 ## Features
 * Unique reaction menu and gameplay.
@@ -32,6 +26,3 @@ There are many ways to support our work. You can:
 * Please make sure to complete all missing information such as bot token.
 3. Install dependencies running `npm install` inside the project directory (first use the `cd {path}` command if necessary).
 4. Start the bot using PM2 and the watch.json file included in the project (`pm2 start watch.json`). If on windows, you can create a file called start.bat that contains this command.
-
-## Pull requests
-Feel free to make any pull request with bug fixes, new features or anything you would like! You are also welcome to discuss any idea with us in our [Discord server](https://discord.gg/asdcd7F).
